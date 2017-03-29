@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxSimpleApp
 
 ```
 	> npm install
